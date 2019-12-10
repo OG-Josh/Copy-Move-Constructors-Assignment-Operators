@@ -1,0 +1,42 @@
+Script started on Tue 26 Mar 2019 02:12:40 PM PDT
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW10[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW10 $[00m date
+Tue Mar 26 14:12:41 PDT 2019
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW10[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW10 $[00m ls- [K[K -[K[K[K[Kl[Kls -l[K[K[K[K[Kl-[K[K-l[K[Ks[Kls -l
+total 12
+-rw-rw-r-- 1 cs1c cs1c 7897 Mar 26 12:30 hw10.cpp
+-rw-rw-r-- 1 cs1c cs1c    0 Mar 26 14:12 hw10.scr
+-rw-rw-r-- 1 cs1c cs1c  228 Mar 25 18:55 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW10[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW10 $[00m makeal[K [K[K all
+g++ -g --std=c++11 hw10.cpp -o hw10
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW10[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW10 $[00m ls -l
+total 56
+-rwxrwxr-x 1 cs1c cs1c 41648 Mar 26 14:12 [0m[01;32mhw10[0m
+-rw-rw-r-- 1 cs1c cs1c  7897 Mar 26 12:30 hw10.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Mar 26 14:12 hw10.scr
+-rw-rw-r-- 1 cs1c cs1c   228 Mar 25 18:55 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW10[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW10 $[00m ./hw10
+
+************************************** 
+*           Running HW10             * 
+*      Programmed by First Last      * 
+*      CS1C Date & Time              * 
+************************************** 
+
+v  double values: 0 100.5 0 
+v2 double values (after copy, set): 25 100.5 0 
+
+v3 double values: 0 0 3.3 
+v4 double values: 0 0 4.4 0 
+v3 double values (after assignment): 0 0 4.4 0 
+
+fill up v6 with five doubles
+2
+4
+6
+8
+10
+v6 double values: 2 4 6 8 10 
+]0;cs1c@cs1c-VirtualBox ~/Desktop/HW10[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/HW10 $[00m exit
+exit
+
+Script done on Tue 26 Mar 2019 02:13:14 PM PDT
